@@ -21,9 +21,10 @@ I'm learning IT automation and helpdesk scripting. This script was inspired by a
 
 ## 🔗 Usage
 
-Run this in PowerShell (Windows):
+Run PasswordExpiryChecker.ps1 in PowerShell (Windows):
+You shall be able to see a table like in SimulatedExpiryReport.csv
 
-```powershell
+
 
 
 💡 Future Plan
