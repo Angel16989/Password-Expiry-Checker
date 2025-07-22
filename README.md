@@ -24,5 +24,13 @@ I'm learning IT automation and helpdesk scripting. This script was inspired by a
 Run this in PowerShell (Windows):
 
 ```powershell
+
+
+💡 Future Plan
+Connect to real Active Directory
+
+Schedule with Task Scheduler
+
+Add email integration
 .\PasswordExpiryChecker.ps1
 
